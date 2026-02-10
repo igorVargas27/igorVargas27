@@ -15,10 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=igorVargas27.igorVargas27&"  />
-</div>
-
 ###
 
 <h1 align="center">Olá 👋</h1>
