@@ -14,6 +14,9 @@ jobs:
     steps:
       - name: Generate Pac-Man graph
         uses: abozanona/pacman-contribution-graph@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           github_user_name: igorVargas27
+
 
