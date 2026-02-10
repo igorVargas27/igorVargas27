@@ -9,14 +9,26 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Pac-Man graph
-        uses: abozanona/pacman-contribution-graph@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
+
+      - name: Generate Pac-Man contribution graph
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: igorVargas27
+          outputs: |
+            dist/pacman.svg
+            dist/pacman-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
