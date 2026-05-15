@@ -25,7 +25,28 @@
 
 ###
 
-<p align="left">Olá! Meu nome é Igor Vargas e sou estudante de programação e estou em constante aprendizado na área de desenvolvimento de software. Utilizo este GitHub para compartilhar projetos, exercícios e estudos práticos, aplicando conceitos de lógica de programação, desenvolvimento web e boas práticas de código. Meu objetivo é evoluir continuamente como desenvolvedor, aprendendo novas tecnologias e construindo projetos cada vez mais completos ao longo do tempo.</p>
+<p align="left">Desenvolvedor em formação com foco em backend utilizando Python e FastAPI.
+
+Tenho experiência no desenvolvimento de APIs REST, automação de processos e aplicações web, aplicando conceitos de banco de dados, integração de sistemas e boas práticas de desenvolvimento.
+
+Atualmente curso Engenharia de Software e utilizo este GitHub para publicar projetos práticos com Python, JavaScript, FastAPI e SQLite, buscando evoluir continuamente como desenvolvedor.</p>
+
+###
+
+<h3 align="left">🚀 Projetos em Destaque</h3>
+
+###
+
+### 📌 Cadastro de Clientes
+- API REST desenvolvida com FastAPI
+- Operações CRUD completas
+- Integração com banco SQLite
+- Validação de dados utilizando Pydantic
+
+🔗 Repositório:
+<a href="https://github.com/igorVargas27/Cadastro-de-Clientes-Python">
+  Cadastro-de-Clientes-Python
+</a>
 
 ###
 
