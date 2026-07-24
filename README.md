@@ -27,8 +27,8 @@
       I'm studying Software Engineering and applying that knowledge to hands-on projects, like a task management API built with FastAPI + SQLite and Python scripts for spreadsheet automation. I'm looking for my first opportunity as an intern or junior developer to keep growing technically and contribute to real-world solutions.<br><br>
     </td>
     <td align="center" valign="middle" width="30%">
-      <a href="https://github.com/igorVargas27/igorVargas27/blob/main/assets/download%20(4).jpg">
-        <img src="https://raw.githubusercontent.com/igorVargas27/igorVargas27/main/assets/download%20(4).jpg" width="220" alt="Profile picture""/>
+      <a href="https://github.com/igorVargas27/igorVargas27/blob/main/assets/planet_transparent_v2.png">
+        <img src="https://raw.githubusercontent.com/igorVargas27/igorVargas27/main/assets/planet_transparent_v2.png" width="220" alt="Profile picture""/>
       </a>
     </td>
   </tr>
