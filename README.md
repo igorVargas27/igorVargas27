@@ -3,13 +3,19 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/igorborgesvargas/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
 
-  <a href="https://www.behance.net/igorvargas2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo" />
-  </a>
+<a href="https://www.linkedin.com/in/igorborgesvargas/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.behance.net/igorvargas2">
+<img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
+<a href="mailto:igorvagasborges@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 <h1 align="center">Hello 👋</h1>
